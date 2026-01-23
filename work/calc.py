@@ -1,0 +1,8 @@
+a=int(input("Enter a first number:"))
+b=int(input("Enter a second number:"))
+print("sum =",a+b)
+print("difference =",a-b)
+print("product =",a*b)
+print("Quotient =",a/b)
+print("Reminder =",a%b)
+print("power =",a**b)
